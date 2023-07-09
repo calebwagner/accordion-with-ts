@@ -1,0 +1,137 @@
+[
+    {
+        "id": 17,
+        "title": "General questions",
+        "topicId": 5,
+        "question": "What features are available in MyHealthONE to help me manage my care?",
+        "answer": "<ul><li><strong> Hospital Visits </strong></li><ul><li> Health information availability for the past 24 months.</li><li> Creating a Caregiver/proxy relationship for hospital medical records.</li><li> Paying a hospital bill.</li><li> Register for an inpatient or outpatient procedure, labor and delivery or mammogram.</li><li> Find and register for a hospital class or other event.</li><li>Share records</li></ul> <br><br><li> <strong> Physician Visits </strong></li><ul><li> Making an appointment with my primary care physician or a specialist</li></ul> <br><br><li> <strong> Urgent Care </strong></li><ul><li> Health information availability. (<strong>effective date June 1, 2020</strong>)</li><li> Sharing my records. (<strong>effective date June 1, 2020</strong>)</li></ul></ul>",
+        "sortOrder": 5,
+        "category": null
+    },
+    {
+        "id": 0,
+        "title": "General questions",
+        "topicId": 5,
+        "question": "Can I use MyHealthONE on someone else&rsquo;s behalf (like a family member or loved one)?",
+        "answer": "<ul>\n<li>Yes, you can manage the health of your loved ones with MyHealthONE.</li>\n<li>To become a MyHealthONE caregiver, visit our hospital with your dependent or loved one and complete the Proxy Express Waiver at the patient registration, health information management or medical records office. You will need to bring proof of identification and, if applicable, proof of guardianship of the minor (e.g., driverâ€™s license, birth certificate or legal guardian court document). You may also print and complete the&nbsp;<a href=\"https://hcahealthcare.com/myhealthone/myhealthone-proxy-forms.dot\" target=\"_blank\" rel=\"noopener\" class=\"hca-hyperlink hca-outline-wider\">&nbsp;Proxy Express Waiver</a>&nbsp;in advance. You will need to bring the completed waiver and proof of identification, if applicable, proof of guardianship of the minor with you to the patient registration, health information management or medical records office.<ul>\n<li><strong><a href=\"https://hcahealthcare.com/myhealthone/myhealthone-proxy-forms.dot\" target=\"_blank\" rel=\"noopener\" class=\"hca-hyperlink hca-outline-wider\">For patients aged 0-12</a></strong>, please take the&nbsp;<em>Proxy for Minor Patient 0-12 Years of Age Express Waiver and Consent</em>&nbsp;to the hospital the minor patient most recently visited. A parent or legal guardian must present photo identification. Although anyone can be the caregiver or proxy, the&nbsp;<em>Proxy for Minor Patient 0-12 Years of Age Express Waiver and Consent</em>&nbsp;must be signed by the parent or legal guardian at the hospitalâ€™s registration desk.</li>\n<li><strong><a href=\"https://hcahealthcare.com/myhealthone/myhealthone-proxy-forms.dot\" target=\"_blank\" rel=\"noopener\" class=\"hca-hyperlink hca-outline-wider\">For patients aged 13-17</a></strong>, select a trusted individual as your caregiver. Please take the&nbsp;<em>Proxy for Minor Patient 13-17 Years of Age Express Waiver and Consent</em>&nbsp;to the hospital you most recently visited. A parent or legal guardian and the minor patient must both sign the&nbsp;<em>Proxy for Minor Patient 13-17 Years of Age Express Waiver and Consent</em>&nbsp;and present photo identification at the hospitalâ€™s registration desk.</li>\n<li><strong><a href=\"https://hcahealthcare.com/myhealthone/myhealthone-proxy-forms.dot\" target=\"_blank\" rel=\"noopener\" class=\"hca-hyperlink hca-outline-wider\">For adult patients</a></strong>, please take the&nbsp;<em>Proxy for Adult Patient Express Waiver and Consent</em>&nbsp;to the hospital you most recently visited. You will need to present photo identification at the hospital and be ready to provide information about your caregiver or proxy.</li>\n</ul>\n</li>\n</ul>",
+        "sortOrder": 10,
+        "category": null
+    },
+    {
+        "id": 2,
+        "title": "General questions",
+        "topicId": 5,
+        "question": "Does MyHealthONE work on mobile devices?",
+        "answer": "<ul>\r\n<li>Yes, you can access MyHealthONE through your mobile browser and on the MyHealthONE mobile app. Our mobile app is available for both iOS and Android devices</li>\r\n</ul>\r\n\r\n<div class=\"row\" style=\"\r\n    padding-left: 20px;\r\n\">\r\n    <a href=\"http://itunes.apple.com/app/id1493014954\" target=\"_blank\" id=\"js-download-ios\" class=\" col-xs-6 col-sm-2\" title=\"Download the MyHealthONE mobile app from the iOS app store\">\r\n              <img src=\"/cpp/hca-ui/img/app-store-badge.png\" width=\"125px\" alt=\"iOS app store button image\">\r\n            </a>\r\n            <a href=\"https://play.google.com/store/apps/details?id=com.hcahealthcare.mhom\" target=\"_blank\" id=\"js-download-android\" class=\"col-xs-6 col-sm-2\" title=\"Download the MyHealthONE mobile app from the Google Play store\" style=\"\r\n    margin-left: -15px;\r\n\">\r\n              <img src=\"/cpp/hca-ui/img/google-play-badge.png\" width=\"125px\" alt=\"Google Play app store button image\">\r\n            </a>\r\n</div>\r\n",
+        "sortOrder": 30,
+        "category": null
+    },
+    {
+        "id": 4,
+        "title": "General questions",
+        "topicId": 5,
+        "question": "What if I have other questions about MyHealthONE?",
+        "answer": "<ul><li>Please contact the MyHealthONE support team at <a  href=\"tel:855-422-6625\"  class=\"faq-phone-4 hca-outline-wider hca-underline-link\" title=\"Call with Questions\">(855) 422-6625</a>.</li><li>You may also submit a secure message via the <a href=\"/mh1/secure/mh1/cpp/messages\" class=\"hca-outline-wider hca-underline-link\">Messages</a> feature.</li></ul>",
+        "sortOrder": 50,
+        "category": "HELP"
+    },
+    {
+        "id": 3,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "Will the health information from my physician’s office, practice or clinic be available here?",
+        "answer": "<ul><li>No, MyHealthONE provides access only to hospital and urgent care health information. For health information from your provider’s office, practice or clinic, please contact your provider directly.</li></ul> ",
+        "sortOrder": 55,
+        "category": null
+    },
+    {
+        "id": 16,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "What do the \"Doctor's Office Portal\" buttons do?",
+        "answer": "<ul><li>When you select any of the buttons under the Doctor's Office Portal section, this will navigate you outside of MyHealthONE to specific features within your physician's health portal. For assistance or questions regarding the health portal for your doctor's office, please contact your doctor's office directly.</li></ul>",
+        "sortOrder": 60,
+        "category": null
+    },
+    {
+        "id": 5,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "Will I be able to see all my medical records in MyHealthONE once I create an account and connect my health information?",
+        "answer": "<ul><li> No, only some medical records from our hospital and urgent care centers will be available in MyHealthONE. Information regarding physician office, practice or clinic visits will not be available through MyHealthONE.</li><li>Your hospital medical records from the two years prior to todayâ€™s date will display in MyHealthONE.</li><li>Your urgent care medical records from June 1, 2020 forward will display in MyHealthONE.</li><li>MyHealthONE displays most, but not all, of your clinical information. If you donâ€™t see what you are looking for in MyHealthONE or you are seeking records older than 24 months, they can be accessed from our <a class=\"hca__hyperlink--underline hca-outline-wider\" data-toggle=\"modal\" href=\"#\" data-target=\"#curesActModal\">online health information request portal</a> on a new screen.</li></ul>",
+        "sortOrder": 65,
+        "category": null
+    },
+    {
+        "id": 6,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "When can I see updates on my health information, lab results or imaging reports in MyHealthONE?",
+        "answer": "<div class=\"table-responsive\">\n<table class=\"table-bordered\" align=\"center\">\n<tbody>\n<tr>\n<th class=\"hca-padding-10\">Discharge instructions</th>\n<td class=\"hca-padding-10\">Discharge instructions will be available a few hours after you leave the hospital.</td>\n</tr>\n<tr>\n<th class=\"hca-padding-10\">Lab results</th>\n<td class=\"hca-padding-10\">Lab results will display as soon as the test has been through the laboratory&rsquo;s entire process of determining results, including abnormal results.</td>\n</tr>\n<tr>\n<th class=\"hca-padding-10\">Procedure list</th>\n<td class=\"hca-padding-10\">The list of procedures performed while you were at the hospital or urgent care center will be viewable approximately 3 or 4 days after you leave the hospital or urgent care center.</td>\n</tr>\n<tr>\n<th class=\"hca-padding-10\">Imaging reports</th>\n<td class=\"hca-padding-10\">Your imaging reports, such as X-rays and MRIs, will display approximately 24 hours after the radiologist has reviewed the image.&nbsp;<br class=\"atl-forced-newline\" /><br class=\"atl-forced-newline\" />Please wait at least four days before contacting your provider to learn about imaging results. At this time, only the report the radiologist writes will display; not the actual image that was taken.</td>\n</tr>\n<tr>\n<th class=\"hca-padding-10\">Discharge summary</th>\n<td class=\"hca-padding-10\">Your hospital discharge summary will be viewable 24 hours after your doctor has finished the report.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "sortOrder": 70,
+        "category": null
+    },
+    {
+        "id": 7,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "Where are my lab results in MyHealthONE?",
+        "answer": "<ul>\n<li>Once you have created your account and connected your medical records, select the health records option from the top navigation menu, then select the Lab Results tab to view your lab results.</li>\n<li>Only lab tests performed at our hospital or urgent care centers will be available in MyHealthONE.</li>\n<li>The majority of your lab results will display in MyHealthONE. At this time, pathology reports will not appear.&nbsp;</li>\n<li>Contact your provider for lab results not displayed in MyHealthONE.</li>\n</ul>",
+        "sortOrder": 80,
+        "category": null
+    },
+    {
+        "id": 8,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "Can I share my health information?",
+        "answer": "\n  Once you have connected your medical records, you can download and share your Continuity of Care document or Discharge Summary document in different ways:\n<ul>\n    <li><strong>Send:</strong>\n      <ol>\n        <li>Select My Documents from the top navigation menu.</li>\n        <li>Select “Send” in the Continuity of Care or Discharge Summary document section.</li>\n        <li>Confirm the acknowledgement message.</li>\n        <li>Choose the date range of your visit.</li>\n        <li>Choose “Custom Recipient” or “Direct Address” (guidance is provided on-screen) and click “Next step.”</li>\n        <li>Provide the recipient’s information, then click “Transmit Records.”</li>\n      </ol>\n    </li>\n    <li><strong>View and print (popups must be enabled in your browser):</strong>\n      <ol>\n        <li>Select My Documents from the top navigation menu.</li>\n        <li>Select “Send” in the Continuity of Care or Discharge Summary document section.</li>\n        <li>Confirm the acknowledgement message.</li>\n        <li>Choose the date range of your visit.</li>\n        <li>Follow the guiding prompts to open your document in a new tab.</li>\n        <li>Click “Print” in the upper right corner to print your document.</li>\n      </ol>\n    </li>\n    <li><strong>Download:</strong>\n      <ol>\n        <li>Select My Documents from the top navigation menu.</li>\n        <li>Select “Download” in the Continuity of Care or Discharge Summary document section.</li>\n        <li>Confirm the acknowledgement message.</li>\n        <li>Set the date range of your visit and the type of file you want to download. For personal use, choose HTML. For sharing with your doctor, choose XML.</li>\n        <li>Select My Documents from the top navigation menu.</li>\n        <li>Select “Download” in the Discharge Summary or Continuity of Care document section.</li>\n        <li>Confirm the acknowledgement message.</li>\n        <li>Set the date range of your visit and the type of file you want to download. For personal use, choose HTML. For sharing with your doctor, choose XML.</li>\n      </ol>\n    </li>\n</ul> ",
+        "sortOrder": 90,
+        "category": null
+    },
+    {
+        "id": 9,
+        "title": "About your health information",
+        "topicId": 6,
+        "question": "What if I have other questions about MyHealthONE?",
+        "answer": "<ul><li>Please contact the MyHealthONE support team at <a href=\"tel:855-422-6625\" class=\"faq-phone-9 hca-outline-wider hca-underline-link\"   title=\"Call with Questions\">(855) 422-6625</a>.</li><li>You may also submit a secure message via the <a href=\"/mh1/secure/mh1/cpp/messages\" class=\"hca-outline-wider hca-underline-link\">Messages</a> feature.</li></ul>",
+        "sortOrder": 100,
+        "category": "HELP"
+    },
+    {
+        "id": 13,
+        "title": "About paying your bills",
+        "topicId": 7,
+        "question": "How do I make a payment?",
+        "answer": "<ul>\r\n<li>After you have logged in you can click &ldquo;Bill Pay&rdquo; in the navigation to start the bill pay process.</li>\r\n<li>Your bill pay details will display for your current accounts and you will have options to make payments on those accounts.</li>\r\n<li>Please note that if you don&apos;t have any accounts with outstanding balances, your bill pay overview screen will remain empty until your accounts are available.</li>\r\n</ul>",
+        "sortOrder": 110,
+        "category": null
+    },
+    {
+        "id": 10,
+        "title": "About paying your bills",
+        "topicId": 7,
+        "question": "Can I pay my doctor’s office, anesthesia or emergency provider or urgent care bills through MyHealthONE?",
+        "answer": "<ul>\n<li>No, you will only be able to pay hospital bills. You will not be able to pay bills for physician practices, anesthesia providers, emergency room providers, urgent care or other entities that bill separately.</li>\n</ul>",
+        "sortOrder": 115,
+        "category": null
+    },
+    {
+        "id": 14,
+        "title": "About paying your bills",
+        "topicId": 7,
+        "question": "Why can’t I save a payment method?",
+        "answer": "<ul>\r\n<li>MyHealthONE does not offer this as a feature of bill pay right now.</li>\r\n<li>The ability to save your payment method will be a future enhancement of this feature.</li>\r\n</ul>",
+        "sortOrder": 150,
+        "category": null
+    },
+    {
+        "id": 15,
+        "title": "About paying your bills",
+        "topicId": 7,
+        "question": "What if I have other questions about paying bills?",
+        "answer": "<ul><li>For further assistance with paying bills, please call <a href=\"tel:844-236-3525\" class=\"faq-phone-15 hca-outline-wider hca-underline-link\" title=\"Call with Questions\">(844) 236-3525</a>.</li></ul>",
+        "sortOrder": 160,
+        "category": "HELP"
+    }
+]
